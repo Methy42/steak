@@ -1,0 +1,11 @@
+{
+  "name": "steak",
+  "version": "1.0.0",
+  "main": "server/main.js",
+  "repository": "https://github.com/THY161X/steak.git",
+  "author": "tanghuayu <tanghuayu@archeros.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/main.js"
+  }
+}
